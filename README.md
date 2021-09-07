@@ -2,7 +2,7 @@
 
 I'm a fullstack development student from Brazil.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?camila-mp=anuraghazra)](https://github.com/anuraghazra&theme=oceandark&show_icons=true/github-readme-stats)
 
 ### Languages and tools learned
 
