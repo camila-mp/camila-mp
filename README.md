@@ -10,6 +10,7 @@ I'm a fullstack development student from Brazil.
 - Bootstrap
 - HTML5
 - Redux
+- Context API
 - Jest
 - React Testing Library
 
