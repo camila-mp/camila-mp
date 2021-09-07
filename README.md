@@ -16,5 +16,6 @@ I'm a fullstack development student from Brazil.
 ### About me
 
 - Pronouns: she/her;
+- I like to read books, particularly sci-fi; 
 - Fluent in portuguese and english;
 - I'm also a biologist;
