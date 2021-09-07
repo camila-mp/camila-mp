@@ -4,7 +4,14 @@ I'm a fullstack development student from Brazil.
 
 ### Languages and tools learned
 
-:javascript:
+- Javascript
+- React.js
+- CSS3
+- Bootstrap
+- HTML5
+- Redux
+- Jest
+- React Testing Library
 
 ### About me
 
