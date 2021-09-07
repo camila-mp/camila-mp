@@ -1,9 +1,13 @@
-### Hi there, I'm Camila.
+### Hi there, I'm Camila. 
 
 I'm a fullstack development student from Brazil.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camila-mp&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=camila-mp&show_icons=true&theme=ocean_dark&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=camila-mp&repo=convoychat" />
+</a>
 
 ### Languages and tools learned
 
