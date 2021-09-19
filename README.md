@@ -18,8 +18,10 @@
   <img align="center" alt="bootstrap-logo" width="64" src="https://user-images.githubusercontent.com/82237188/133941647-264f6514-34b7-48c4-af4a-5b613f392a7b.png">
 </div>
 
-<h3>About me</h3>
-♀️ Pronouns: she/her;<br>
-📖 I like to read books, particularly sci-fi;<br>
-🇧🇷 🇬🇧 Fluent in portuguese and english;<br>
-🦠 I'm also a biologist;<br>
+<h3 align="center">About me</h3>
+<div>
+  <p>♀️ Pronouns: she/her;</p><br>
+  <p>📖 I like to read books, particularly sci-fi;</p><br>
+  <p>🇧🇷 🇬🇧 Fluent in portuguese and english;</p><br>
+  <p>🦠 🌱 I'm also a biologist who loves nature;</p><br>
+</div>
