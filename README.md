@@ -24,5 +24,5 @@
   <p>🔬 🚀 Science and technology enthusiast;</p>
   <p>📖 I like to read books, particularly literature classics and sci-fi;</p>
   <p>🇧🇷 🇬🇧 Fluent in portuguese and english;</p>
-  <p>🌱 I'm also a biologist;</p>
+  <p>🌱 🧬 I'm also a biologist;</p>
 </div>
