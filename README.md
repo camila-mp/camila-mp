@@ -1,8 +1,8 @@
 <h1 align="center">Hello world, I'm Camila! ✨</h1>
-<h3 align="center">I'm a beginner front-end developer and fullstack development student from Brazil.</h3>
+<h3 align="center"> 🐣 I'm a beginner frontend developer and fullstack student from Brazil.</h3>
 <br>
 <div align="center" style="display: inline_block">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=camila-mp&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=camila-mp&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-mp&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 <br>
@@ -20,9 +20,5 @@
 <br>
 <h3 align="center">About me</h3>
 <div align="center">
-  <p>♀️ Pronouns: she/her;</p>
-  <p>🔬 🚀 Science and technology enthusiast;</p>
-  <p>📖 I like to read books, sci-fi;</p>
-  <p>🇧🇷 🇬🇧 Fluent in portuguese and english;</p>
-  <p>🌱 🧬 I'm also a biologist;</p>
+  <p>♀️ Pronouns: she/her;<br>🔬 🚀 Science and technology lover;<br>📖 I like to read books, particularly sci-fi;<br>🇧🇷 🇬🇧 Fluent in portuguese and english;<br>🌱 🧬 I'm also a biologist;</p>
 </div>
