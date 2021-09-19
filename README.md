@@ -9,7 +9,9 @@ I'm a fullstack development student from Brazil.
 </div>
 
 ### Languages and tools
-
+<br>
+<img align="center" height="30" width="40" alt="testando" src="https://github.com/devicons/devicon/tree/master/icons/csharp" />
+  
 - Javascript
 - React.js
 - CSS3
@@ -26,7 +28,4 @@ I'm a fullstack development student from Brazil.
 - I like to read books, particularly sci-fi; 
 - Fluent in portuguese and english;
 - I'm also a biologist;
-x-special/nautilus-clipboard
-copy
-file:///home/camila-mp/Downloads/294678_html5_icon.svg
-file:///home/camila-mp/Downloads/294692_css3_icon.svg 
+
