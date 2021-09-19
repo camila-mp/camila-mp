@@ -19,9 +19,9 @@
 </div>
 
 <h3 align="center">About me</h3>
-<div>
+<div align="center">
   <p>♀️ Pronouns: she/her;</p><br>
-  <p>📖 I like to read books, particularly sci-fi;</p><br>
-  <p>🇧🇷 🇬🇧 Fluent in portuguese and english;</p><br>
-  <p>🦠 🌱 I'm also a biologist who loves nature;</p><br>
+  <p>📖 I like to read books, particularly literature classics and sci-fi;</p>
+  <p>🇧🇷 🇬🇧 Fluent in portuguese and english;</p>
+  <p>🌱 I'm also a biologist;</p>
 </div>
