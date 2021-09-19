@@ -1,7 +1,7 @@
 <h1 align="center">Hello world, I'm Camila! ✨</h1>
-<h3 align="center">Connect with me:</h3>
+<h2 align="center"> 🐣 I'm a beginner frontend developer and fullstack student from Brazil. Currently in a career transition from biotechnology to web development.</h2>
 <div align="center">
-  <h3 align="center"> 🐣 I'm a beginner frontend developer and fullstack student from Brazil. Currently in a career transition from biotechnology to web development.</h3>
+<h3 align="center">Connect with me:</h3>
   <a href="https://www.facebook.com/camila.pereira.1253">
     <img align="center" alt="facebook-logo" width="50" src="https://user-images.githubusercontent.com/82237188/133944685-303304b5-a17b-4a55-8a12-427bb5adb3ee.png">
   </a>
@@ -31,5 +31,3 @@
 <div align="center">
   <p>♀️ Pronouns: she/her;<br>🔬 🚀 Science and technology lover;<br>📖 I like to read books, particularly sci-fi;<br>🇧🇷 🇬🇧 🇫🇷 Fluent in portuguese and english, intermediate french;<br>🌱 🧬 I'm also a biologist;</p>
 </div>
-![386622_facebook_icon](https://user-images.githubusercontent.com/82237188/133944685-303304b5-a17b-4a55-8a12-427bb5adb3ee.png)
-![5296501_linkedin_network_linkedin logo_icon](https://user-images.githubusercontent.com/82237188/133944688-771607c8-77ac-46e0-89ad-0062dbbe4f28.png)
