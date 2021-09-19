@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, I'm Camila! ✨</h1>
+<h1 align="center">Hello world, I'm Camila. ✨</h1>
 <h3 align="center"> 🐣 I'm a beginner frontend developer and fullstack student from Brazil. Currently in a career transition from biotechnology to web development.</h2>
 <div align="center">
 <h3 align="center">Contact:</h3>
