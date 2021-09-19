@@ -29,5 +29,5 @@
 <br>
 <h3 align="center">About me</h3>
 <div align="center">
-  <p>♀️ Pronouns: she/her;<br>🔬 🚀 Science and technology lover;<br>📖 I like to read books, particularly sci-fi;<br>🇧🇷 🇬🇧 🇫🇷 Fluent in portuguese and english, intermediate french;<br>🌱 🧬 I have a Bachelor's degree and a Master's degree in biological sciences;</p>
+  <p style="color: blue;">♀️ Pronouns: she/her;<br>🔬 🚀 Science and technology lover;<br>📖 I like to read books, particularly sci-fi;<br>🇧🇷 🇬🇧 🇫🇷 Fluent in portuguese and english, intermediate french;<br>🌱 🧬 I have a Bachelor's degree and a Master's degree in biological sciences;</p>
 </div>
