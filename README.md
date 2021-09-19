@@ -1,9 +1,9 @@
 <h1 align="center">Hello world, I'm Camila! ✨</h1>
 <p align="center">I'm a beginner front-end developer and fullstack development student from Brazil.</p>
 <br>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camila-mp&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-mp&layout=compact&langs_count=7&theme=ocean_dark"/>
+<div align="center" style="display: inline_block">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=camila-mp&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-mp&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 <br>
 <h3 align="center">Languages and tools</h3>
