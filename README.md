@@ -8,7 +8,7 @@ I'm a fullstack development student from Brazil.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-mp&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 
-### Languages and tools learned
+### Languages and tools
 
 - Javascript
 - React.js
@@ -26,3 +26,7 @@ I'm a fullstack development student from Brazil.
 - I like to read books, particularly sci-fi; 
 - Fluent in portuguese and english;
 - I'm also a biologist;
+x-special/nautilus-clipboard
+copy
+file:///home/camila-mp/Downloads/294678_html5_icon.svg
+file:///home/camila-mp/Downloads/294692_css3_icon.svg 
