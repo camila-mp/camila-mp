@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, I'm Camila!</h1>
+<h1 align="center">Hello world, I'm Camila! ✨</h1>
 <p align="center">I'm a beginner front-end developer and fullstack development student from Brazil.</p>
 <br>
 <div>
@@ -7,6 +7,7 @@
 </div>
 <br>
 <h3 align="center">Languages and tools</h3>
+<p></p>
 <div align="center" style="display: inline_block">
   <img align="center" alt="js-logo" src="https://user-images.githubusercontent.com/82237188/133940897-1b9e2f2b-97f6-4e80-8515-5886168d2b40.png">
   <img align="center" alt="css3-logo" width="60" src="https://user-images.githubusercontent.com/82237188/133941365-4f7db70a-1240-49e4-8cf3-dc557324709c.png">
