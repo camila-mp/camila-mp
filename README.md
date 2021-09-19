@@ -10,7 +10,7 @@ I'm a fullstack development student from Brazil.
 
 ### Languages and tools
 <br>
-<img align="center" height="30" width="40" alt="testando" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg' />
+<img align="center" height="30" width="40" alt="testando" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/javascript-original.svg' />
   
 - Javascript
 - React.js
