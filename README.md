@@ -17,7 +17,6 @@
   <img align="center" alt="bootstrap-logo" width="64" src="https://user-images.githubusercontent.com/82237188/133941647-264f6514-34b7-48c4-af4a-5b613f392a7b.png">
 </div>
 <br>
-<ln>
 <h3 align="center">About me</h3>
 <div align="center">
   <p>♀️ Pronouns: she/her;</p>
