@@ -1,5 +1,5 @@
 <h1 align="center">Hello world, I'm Camila! ✨</h1>
-<p align="center">I'm a beginner front-end developer and fullstack development student from Brazil.</p>
+<h3 align="center">I'm a beginner front-end developer and fullstack development student from Brazil.</h3>
 <br>
 <div align="center" style="display: inline_block">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=camila-mp&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
