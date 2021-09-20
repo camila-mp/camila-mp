@@ -1,5 +1,5 @@
-<h1 align="center">Hello world, I'm Camila. ✨</h1>
-<h3 align="center"> 🐣 I'm a beginner frontend developer and fullstack student from Brazil. Currently in a career transition from biotechnology to web development.</h2>
+<h2 align="center">Hello world, I'm Camila. ✨</h1>
+<p style="text-align: center;"> 🐣 I'm a beginner frontend developer and fullstack student from Brazil. Currently in a career transition from biotechnology to web development.</p>
 <div align="center">
 <h3 align="center">Contact:</h3>
   <a href="https://www.facebook.com/camila.pereira.1253">
