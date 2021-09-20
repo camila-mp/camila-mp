@@ -26,7 +26,6 @@
   <img align="center" alt="react-router-logo" width="64" src="https://user-images.githubusercontent.com/82237188/133941367-b505c52e-585c-4212-97ec-950d48898beb.png">
   <img align="center" alt="bootstrap-logo" width="64" src="https://user-images.githubusercontent.com/82237188/133941647-264f6514-34b7-48c4-af4a-5b613f392a7b.png">
 </div>
-<br>
 <h3 align="center">About me:</h3>
 <div align="center">
   <p>♀️ Pronouns: she/her;<br>🔬 🚀 Science and technology lover;<br>📖 I like to read books, particularly science-fiction;<br>🇧🇷 🇬🇧 🇫🇷 Fluent in portuguese and english, intermediate french;<br>🌱 🧬 I have a Bachelor's degree and a Master's degree in biological sciences;</p>
