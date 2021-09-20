@@ -14,7 +14,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=camila-mp&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-mp&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
-<br>
 <h3 align="center">Languages and tools:</h3>
 <p></p>
 <div align="center" style="display: inline_block">
