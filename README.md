@@ -1,12 +1,12 @@
 <h2 align="center">Hello world, I'm Camila. ✨</h1>
-<h3 align="center"> 🐣 I'm a beginner frontend developer and fullstack student from Brazil. Currently in a career transition from biotechnology to web development.</h3>
+<h3 align="center"> 🐣 I'm a beginner frontend developer and fullstack student from Brazil. Currently in a career transition from biology to web development.</h3>
 <div align="center">
 <h3 align="center">Contact:</h3>
   <a href="https://www.facebook.com/camila.pereira.1253">
-    <img align="center" alt="facebook-logo" width="50" src="https://user-images.githubusercontent.com/82237188/133944685-303304b5-a17b-4a55-8a12-427bb5adb3ee.png">
+    <img align="center" alt="facebook-logo" width="30" src="https://user-images.githubusercontent.com/82237188/133944685-303304b5-a17b-4a55-8a12-427bb5adb3ee.png">
   </a>
   <a href="https://www.linkedin.com/in/camila-malvessi-pereira/">
-    <img align="center" alt="linkedin-logo" width="50" src="https://user-images.githubusercontent.com/82237188/133944688-771607c8-77ac-46e0-89ad-0062dbbe4f28.png">
+    <img align="center" alt="linkedin-logo" width="30" src="https://user-images.githubusercontent.com/82237188/133944688-771607c8-77ac-46e0-89ad-0062dbbe4f28.png">
   </a>
 </div>
 <br>
