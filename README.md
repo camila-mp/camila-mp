@@ -1,12 +1,12 @@
 <h2 align="center">Hello world, I'm Camila. ✨</h1>
-<h3 align="center"> 🐣 I'm a beginner frontend developer and fullstack student from Brazil. Currently in a career transition from biology to web development.</h3>
+<p align="center"> 🐣 I'm a beginner frontend developer and fullstack student from Brazil. I'm currently in a career transition from biology to web development.</p>
 <div align="center">
 <h3 align="center">Contact:</h3>
   <a href="https://www.facebook.com/camila.pereira.1253">
-    <img align="center" alt="facebook-logo" width="30" src="https://user-images.githubusercontent.com/82237188/133944685-303304b5-a17b-4a55-8a12-427bb5adb3ee.png">
+    <img align="center" alt="facebook-logo" width="40" src="https://user-images.githubusercontent.com/82237188/133944685-303304b5-a17b-4a55-8a12-427bb5adb3ee.png">
   </a>
   <a href="https://www.linkedin.com/in/camila-malvessi-pereira/">
-    <img align="center" alt="linkedin-logo" width="30" src="https://user-images.githubusercontent.com/82237188/133944688-771607c8-77ac-46e0-89ad-0062dbbe4f28.png">
+    <img align="center" alt="linkedin-logo" width="40" src="https://user-images.githubusercontent.com/82237188/133944688-771607c8-77ac-46e0-89ad-0062dbbe4f28.png"
   </a>
 </div>
 <br>
@@ -27,5 +27,5 @@
 </div>
 <h3 align="center">About me:</h3>
 <div align="center">
-  <p>♀️ Pronouns: she/her;<br>🔬 🚀 Science and technology lover;<br>📖 I like to read books, particularly science-fiction;<br>🇧🇷 🇬🇧 🇫🇷 Fluent in portuguese and english, intermediate french;<br>🌱 🧬 I have a Bachelor's degree and a Master's degree in biological sciences;</p>
+  <p>♀️ Pronouns: she/her;<br>🔬 🚀 Science and technology lover;<br>📖 I like to read books, particularly science-fiction;<br>🇧🇷 🇬🇧 🇫🇷 Fluent in portuguese and english, intermediate french;<br>🌱 🧬 I have a Master's degree in biological sciences;</p>
 </div>
