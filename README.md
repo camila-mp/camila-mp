@@ -28,11 +28,10 @@
   <img align="center" alt="node-logo" width="64" src="https://user-images.githubusercontent.com/82237188/158260932-c3dd8fc4-4447-49a3-82a7-6879488a2676.png">
   <img align="center" alt="express-logo" width="60" src="https://user-images.githubusercontent.com/82237188/158256488-472bd81e-d772-47eb-8ffd-3940140b4137.png">
   <img align="center" alt="mysql-logo" width="60" src="https://user-images.githubusercontent.com/82237188/158256671-9db7a0b2-a1f2-4b5c-b2b3-44fb820f25a7.png">
-  <img align="center" alt="mongodb-logo" width="60" src="https://user-images.githubusercontent.com/82237188/158261049-65bc873c-9360-40e0-ad01-b29ed142ccc2.png">
+  <img align="center" alt="mongodb-logo" width="50" src="https://user-images.githubusercontent.com/82237188/158261049-65bc873c-9360-40e0-ad01-b29ed142ccc2.png">
   <img align="center" alt="mocha-logo" width="50" src="https://user-images.githubusercontent.com/82237188/158260682-63d06a3b-54bc-4931-b748-7d94065711f8.png">
 </div>
 </div>
 <h3 align="center">About me:</h3>
 <div align="center">
-  <p>♀️ Pronouns: she/her;<br>🔬 🚀 Science and technology lover;<br>📖 I like to read books, particularly science-fiction;<br>🇧🇷 🇬🇧 🇫🇷 Fluent in portuguese and english, intermediate french;<br>🌱 🧬 I have a Master's degree in biological sciences;</p>
-  ![mongodb_plain_wordmark_logo_icon_146423](https://user-images.githubusercontent.com/82237188/158261049-65bc873c-9360-40e0-ad01-b29ed142ccc2.png)
+  <p>♀️ Pronouns: she/her;<br>🔬 🚀 Science, innovation and technology enthusiast;<br>📖 I love to read books, particularly science-fiction;<br>🇧🇷 🇬🇧 🇫🇷 Fluent in portuguese and english, intermediate french;<br>🌱 🧬 I have a Master's degree in biological sciences;</p>
