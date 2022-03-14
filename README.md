@@ -24,8 +24,12 @@
   <img align="center" alt="redux-logo" width="30" src="https://user-images.githubusercontent.com/82237188/133941103-b8f82a31-cdcf-4ddf-bbbf-fc6b535a0d35.png">
   <img align="center" alt="react-router-logo" width="30" src="https://user-images.githubusercontent.com/82237188/133941367-b505c52e-585c-4212-97ec-950d48898beb.png">
   <img align="center" alt="bootstrap-logo" width="30" src="https://user-images.githubusercontent.com/82237188/133941647-264f6514-34b7-48c4-af4a-5b613f392a7b.png">
+  <img align="center" alt="bootstrap-logo" width="30" src="https://user-images.githubusercontent.com/82237188/158256345-4aff2c60-72de-42e8-9af7-b2c365166a55.png">
+  <img align="center" alt="bootstrap-logo" width="30" src="https://user-images.githubusercontent.com/82237188/158256488-472bd81e-d772-47eb-8ffd-3940140b4137.png">
+  <img align="center" alt="bootstrap-logo" width="30" src="https://user-images.githubusercontent.com/82237188/158256671-9db7a0b2-a1f2-4b5c-b2b3-44fb820f25a7.png">
+  <img align="center" alt="bootstrap-logo" width="30" src="https://user-images.githubusercontent.com/82237188/158256797-54b0bdaa-5725-4fbc-8fd1-5d0dda7e225b.png">
+</div>
 </div>
 <h3 align="center">About me:</h3>
 <div align="center">
   <p>♀️ Pronouns: she/her;<br>🔬 🚀 Science and technology lover;<br>📖 I like to read books, particularly science-fiction;<br>🇧🇷 🇬🇧 🇫🇷 Fluent in portuguese and english, intermediate french;<br>🌱 🧬 I have a Master's degree in biological sciences;</p>
-</div>
