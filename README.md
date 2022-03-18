@@ -32,6 +32,6 @@
   <img align="center" alt="mocha-logo" width="50" src="https://user-images.githubusercontent.com/82237188/158260682-63d06a3b-54bc-4931-b748-7d94065711f8.png">
 </div>
 </div>
-<h3 align="center">Fun facts about me:</h3>
+<h3 align="center">About me:</h3>
 <div align="center">
   <p>♀️ Pronouns: she/her;<br>🔬 🚀 Science, innovation and technology enthusiast;<br>📖 I love to read books, particularly science-fiction;<br>🪴 🐱 Easily distracted by plants and cats (how could you not pet a cat?);<br>🇧🇷 🇬🇧 🇫🇷 Fluent in portuguese and english, intermediate french;<br>🧬 I have a Master's degree in which I worked with bacterial genetics;</p>
