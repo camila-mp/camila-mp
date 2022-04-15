@@ -34,4 +34,4 @@
 </div>
 <h3 align="center">About me:</h3>
 <div align="center">
-  <p>♀️ Pronouns: she/her;<br>🔬 🚀 Science, innovation and technology enthusiast;<br>📖 I love to read books, particularly science-fiction;<br>🪴 🐱 Easily distracted by plants and cats;<br>🇧🇷 🇬🇧 🇫🇷 Fluent in portuguese and english, intermediate french;<br>🧬 I have a Master's degree in which I worked with bacterial genetics;</p>
+  <p>♀️ Pronouns: she/her;<br>🔬 🚀 Science, innovation and technology enthusiast;<br>📖 I love to read books, particularly science-fiction;<br>🪴 🐱 Easily distracted by plants and cats;<br>🇧🇷 🇬🇧 🇫🇷 Fluent in portuguese and english, basic french;<br>🧬 I have a Master's degree in applied microbiology;</p>
